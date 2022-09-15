@@ -743,6 +743,24 @@
                  "width":192,
                  "x":768,
                  "y":224
+                }, 
+                {
+                 "class":"",
+                 "height":19,
+                 "id":20,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#0000ac",
+                     "fontfamily":"MV Boli",
+                     "text":"Campus Handwerk ",
+                     "wrap":true
+                    },
+                 "visible":true,
+                 "width":160,
+                 "x":36.3333333333333,
+                 "y":37.5
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -893,7 +911,7 @@
          "y":0
         }],
  "nextlayerid":53,
- "nextobjectid":17,
+ "nextobjectid":21,
  "orientation":"orthogonal",
  "properties":[
         {
