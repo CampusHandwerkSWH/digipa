@@ -848,6 +848,26 @@
                  "width":160,
                  "x":36.3333333333333,
                  "y":37.5
+                }, 
+                {
+                 "class":"",
+                 "height":19,
+                 "id":21,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#ff0000",
+                     "fontfamily":"MS Sans Serif",
+                     "italic":true,
+                     "pixelsize":17,
+                     "text":"Herzlich Willkommen!",
+                     "wrap":true
+                    },
+                 "visible":true,
+                 "width":192,
+                 "x":300.666666666667,
+                 "y":614.5
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -998,7 +1018,7 @@
          "y":0
         }],
  "nextlayerid":55,
- "nextobjectid":21,
+ "nextobjectid":22,
  "orientation":"orthogonal",
  "properties":[
         {
