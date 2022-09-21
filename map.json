@@ -152,7 +152,7 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":"Druecke die Leertaste, um in den Meetingraum zu gelangen."
+                 "value":"Druecke die LEERTASTE, um in den Meetingraum zu gelangen."
                 }],
          "type":"tilelayer",
          "visible":true,
