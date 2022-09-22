@@ -229,7 +229,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/d-a-plus.limequery.com\/958412"
+                 "value":"<iframe id=\"DigiPABObeobachtungen\" title=\"DigiPABO Beobachtungen\"  src=\"https:\/\/d-a-plus.limequery.com\/958412\"><\/iframe>"
                 }],
          "type":"tilelayer",
          "visible":true,
